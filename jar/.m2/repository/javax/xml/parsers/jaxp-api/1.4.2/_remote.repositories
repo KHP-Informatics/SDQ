@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 12 14:20:10 BST 2014
+jaxp-api-1.4.2.jar>=
+jaxp-api-1.4.2.jar>central=
+jaxp-api-1.4.2.pom>central=

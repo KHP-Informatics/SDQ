@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 13 12:49:18 BST 2014
+ui-sdk-1.5.war>=
+ui-sdk-1.5.pom>=

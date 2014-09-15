@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 12 14:03:36 BST 2014
+jetty-management-6.1.4.jar>=
+jetty-management-6.1.4.jar>central=
+jetty-management-6.1.4.pom>central=

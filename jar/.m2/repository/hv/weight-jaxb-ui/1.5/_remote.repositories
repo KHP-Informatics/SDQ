@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 13 13:44:12 BST 2014
+weight-jaxb-ui-1.5.pom>=
+weight-jaxb-ui-1.5.war>=

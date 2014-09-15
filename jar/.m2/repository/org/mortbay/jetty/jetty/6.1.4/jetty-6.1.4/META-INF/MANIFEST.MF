@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: gregw
+Build-Jdk: 1.5.0_11
+implementation-version: 6.1.4
+mode: development
+package: org.mortbay
+url: http://jetty.mortbay.org
+

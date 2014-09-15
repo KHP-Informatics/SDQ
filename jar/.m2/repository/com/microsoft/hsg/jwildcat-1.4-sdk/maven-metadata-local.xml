@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.microsoft.hsg</groupId>
+  <artifactId>jwildcat-1.4-sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140612131916</lastUpdated>
+  </versioning>
+</metadata>

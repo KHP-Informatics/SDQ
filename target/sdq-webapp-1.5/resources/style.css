@@ -1,0 +1,38 @@
+
+div.menu{
+background-color:#34495e;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin: 0 auto 20px auto;    
+         border-radius: 5px;    
+        -moz-border-radius: 5px;    
+        -webkit-border-radius: 5px;
+        color: #ffffff;
+        font-weight:bold;
+        padding:0px;
+}
+
+p.text{
+	color: #888888;
+	font-size:12px;
+}
+
+
+td.bordered {
+	border: 1px solid #CCC;
+	font-size:13px
+	}
+	
+tr.bordered {
+	border: 1px solid #CCC;
+	font-size:13px
+	
+	}
+
+tr.borderedyellow {
+	border: 1px solid #CCC;
+	font-size:13px;
+	background-color:#FFFFD6
+	}	
+	
+	

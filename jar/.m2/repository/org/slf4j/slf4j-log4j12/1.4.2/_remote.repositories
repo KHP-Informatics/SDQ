@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 12 14:03:36 BST 2014
+slf4j-log4j12-1.4.2.jar>=
+slf4j-log4j12-1.4.2.jar>central=
+slf4j-log4j12-1.4.2.pom>central=
